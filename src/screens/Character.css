@@ -1,0 +1,22 @@
+.image-container {
+  text-align: right;
+}
+
+.char-image {
+  width: 90px;
+  margin-top: 78px;
+  margin-right: 48px;
+  border: 1px solid gray;
+  border-radius: 100%;
+}
+
+.char-info {
+  color: gray;
+  margin-left: 18px;
+}
+
+.open-btn {
+  margin-top: 42px;
+  color: white;
+  background-color: navy;
+}
